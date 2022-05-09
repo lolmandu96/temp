@@ -1,3 +1,3 @@
 @echo off
-powershell -Command "& {Write-Host test}"
+ipconfig
 pause
