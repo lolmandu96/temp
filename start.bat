@@ -1,3 +1,3 @@
 @echo off
-powershell C:\Users\jclement\Downloads\test.ps
+powershell \\DC-146\jclement$\Mes Documents\Telechargement\test.ps
 pause
