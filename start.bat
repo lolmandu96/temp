@@ -1,3 +1,3 @@
 @echo off
-set
+powershell C:\Users\jclement\Downloads\test.ps
 pause
